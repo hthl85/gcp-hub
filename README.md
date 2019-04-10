@@ -1,2 +1,2 @@
-# gcp-hub
-Google cloud build with hub from github
+# Cloudbuild with Hub
+Add hub to cloudbuild
